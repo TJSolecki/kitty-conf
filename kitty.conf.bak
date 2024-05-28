@@ -1,0 +1,5 @@
+# BEGIN_KITTY_THEME
+# Dimmed Monokai
+include current-theme.conf
+include main.conf
+# END_KITTY_THEME
